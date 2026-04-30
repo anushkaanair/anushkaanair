@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Anushka%20Nair&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20Full%20Stack%20Developer&descAlignY=58&descColor=a78bfa" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Anushka%20Nair&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%2B%20ML%20Engineer%20%7C%20Full%20Stack%20Developer" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+production-grade+AI+systems;LLMs+%C2%B7+Multi-Agent+%C2%B7+RAG+%C2%B7+Full+Stack;3rd+Year+CSE+(AI%2FML)+%40+SRM+Chennai)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+production-grade+AI+systems;LLMs+%26+Multi-Agent+Systems;RAG+%26+Agentic+AI+Architectures)](https://git.io/typing-svg)
 
 </div>
 
@@ -125,23 +125,6 @@ class AnushkaNair:
 </td>
 </tr>
 </table>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=anushkaanair&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushkaanair&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="165"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=anushkaanair&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa)](https://git.io/streak-stats)
-
-</div>
 
 ---
 
