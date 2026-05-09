@@ -133,7 +133,7 @@ class AnushkaNair:
 | 🥇 | Achievement |
 |---|---|
 | 🏆 Top 5 Finalist | SISA Cybersecurity Hackathon 2025 |
-| 🌟 Top 25 Finalist | All-India Women-Only Technology Hackathon — World Wide Technology 2025 |
+| 🌟 Top 5 Finalist | All-India Women-Only Technology Hackathon — World Wide Technology 2025 |
 | 🎓 CGPA 9.02/10 | SRM Institute of Science & Technology |
 
 ---
