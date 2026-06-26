@@ -29,10 +29,7 @@ class AnushkaNair:
     role        = "AI/ML Engineer + Full Stack Developer"
     university  = "SRM Institute of Science & Technology, Chennai"
     year        = "3rd Year — B.Tech CSE (AI & ML)"
-    cgpa        = 9.02
-
-    building    = ["Archon — AI Systems Design Engine",
-                   "ResumeIntel — AI Resume Intelligence Platform"]
+    cgpa        = 9.14
 
     interests   = ["Large Language Models", "Multi-Agent Systems",
                    "RAG Pipelines", "Full Stack AI Products"]
@@ -134,7 +131,7 @@ class AnushkaNair:
 |---|---|
 | 🏆 Top 5 Finalist | SISA Cybersecurity Hackathon 2025 |
 | 🌟 Top 5 Finalist | All-India Women-Only Technology Hackathon — World Wide Technology 2025 |
-| 🎓 CGPA 9.02/10 | SRM Institute of Science & Technology |
+| 🎓 CGPA 9.14/10 | SRM Institute of Science & Technology |
 
 ---
 
