@@ -119,6 +119,24 @@ class AnushkaNair:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
+
+</tr>
+<tr>
+<td width="100%">
+
+### 🔴 [Loki](https://github.com/anushkaanair/Loki)
+**Adaptive AI Red-Teaming & Evaluation Engine**
+
+> Automated adversarial testing engine for LLM applications, mapped to the OWASP LLM Top 10. Runs an adaptive genetic-search attacker across 11 attack families with refusal-pattern-driven strategy routing, scored by a three-signal detection stack, a deterministic tripwire/canary oracle, a fine-tuned DistilBERT classifier (F1 0.98), and an LLM-based judge. Ships with a live WebSocket dashboard and a full passing test suite (31/31).
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![WebSocket](https://img.shields.io/badge/-WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white)
+
+</td>
+</tr>
+    
 </td>
 </tr>
 </table>
