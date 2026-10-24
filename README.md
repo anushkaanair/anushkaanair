@@ -5,7 +5,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Anushka+Nair+%E2%80%94+welcome+to+my+corner+of+GitHub;I+build+AI+systems+that+prove+what+they+claim;Agents+%C2%B7+RAG+%C2%B7+LLM+red-teaming+%C2%B7+full-stack+products;Final-year+%40+SRM+%C2%B7+graduating+2027)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anushka-nair-021475252)
-[![Portfolio](https://img.shields.io/badge/Portfolio-A78BFA?style=for-the-badge&logo=googlechrome&logoColor=white)](https://claude.ai/artifact/4zqddnaVt2z2ebLQwRh1fu)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anushkanair93@gmail.com)
 ![Profile views](https://komarev.com/ghpvc/?username=anushkaanair&label=Profile+views&color=7c3aed&style=for-the-badge)
 
